@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const Projects = () => {
-	return <div>hello</div>;
+	return <div>what is up</div>;
 };
 
 export default Projects;
