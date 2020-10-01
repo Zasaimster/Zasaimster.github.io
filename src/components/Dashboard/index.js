@@ -6,7 +6,7 @@ const Dashboard = () => {
 
     return(
         <div>
-            hello
+            this is  what is up
         </div>
     )
 }
