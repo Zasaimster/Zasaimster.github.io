@@ -1,3 +1,24 @@
 {
-    "test": "test"
+    "AboutCard1": "My name is Saim Ahmad, and I am a first year undergraduate at UCLA studying Computer Science. I am a fullstack developer, proficient in React and Node.js, looking for an internship as a software engineer.",
+    "Palace" : {
+        "title": "Palace Properties Internship",
+        "description": [
+            "Created a dashboard to help organize incoming reservation requests with a kanban board where managers can update the statuses of different reservations using tags",
+            "Implemented a UI to help managers modify reservation requests",
+            "Designed and produced an interface to let property managers block out different date ranges that the property would be unavailable for renting"
+        ],
+        "imageUrl": "/images/palace.png",
+        "linkTitle": "Video Demonstration",
+        "link": "https://drive.google.com/drive/folders/1m58Wq0WP0W2eQr-0nACrODQm669O_hP0?usp=sharing"
+    },
+    "AmazonChecker": {
+        "title": "Amazon Price Detector",
+        "description": [
+            "Built RESTful APIs with express in Node.js to send and retrieve information from a database",
+            "APIs send data to a webscraper designed with puppeteer uses the information to send emails to users if item prices drop"
+        ],
+        "imageUrl": "/images/amazon-detector.png",
+        "linkTitle": "Github Repository",
+        "link": "https://github.com/KarimBenyassine1/AmazonChecker"
+    }
 }

@@ -1,0 +1,11 @@
+.app-wrapper{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    width: 100%;
+}
+
+.app-wrapper2{
+    width: 80%;
+    margin: 0 auto;
+}
